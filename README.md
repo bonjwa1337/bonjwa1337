@@ -1,10 +1,10 @@
 ![Header image](https://raw.githubusercontent.com/bonjwa1337/bonjwa1337/master/git.jpg)
 
-I'm learning JavaScript and want to become Junior Front-end Developer in the further.
+I'm learning JavaScript and want to become Junior Front-end Developer in the future. 
 
-Here i will post my train/pet projects here. I want to improve my skills, so i will do another boring, but magic things =)
+I will post my training/pet projects here. I want to improve my skills, so I will not do boring, but magic things =)
 
-BTW I'm looking for a job in a company where i can recieve expirience, its very important for me in present moment
+BTW I'm looking for a job in a company where I can recieve experience. This is very important for me in the present moment
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -16,6 +16,11 @@ BTW I'm looking for a job in a company where i can recieve expirience, its very 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-IvanV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ivan-vasenkin-301289108/)](https://www.linkedin.com/in/https://www.linkedin.com/in/ivan-vasenkin-301289108/)
+[![Instagram Badge](https://img.shields.io/badge/-bonjwa1447-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bonjwa1447/)](https://www.instagram.com/bonjwa1447/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
