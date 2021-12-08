@@ -19,7 +19,7 @@ BTW I'm looking for a job in a company where I can recieve experience. This is v
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-IvanV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-vasenkin-301289108/)](https://www.linkedin.com/in/https://www.linkedin.com/in/ivan-vasenkin-301289108/)
+[![Linkedin Badge](https://img.shields.io/badge/-IvanV-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-vasenkin-301289108/)](https://www.linkedin.com/in/ivan-vasenkin-301289108/)
 [![Instagram Badge](https://img.shields.io/badge/-bonjwa1447-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bonjwa1447/)](https://www.instagram.com/bonjwa1447/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
