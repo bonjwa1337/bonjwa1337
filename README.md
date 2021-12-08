@@ -1,3 +1,4 @@
+![Header image](https://raw.githubusercontent.com/bonjwa1337/bonjwa1337/master/git.jpg)
 
 I'm learning JavaScript and want to become Junior Front-end Developer in the further.
 
