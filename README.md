@@ -12,6 +12,11 @@ BTW I'm looking for a job in a company where i can recieve expirience, its very 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
+![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![bonjwa1337's github stats](https://github-readme-stats.vercel.app/api?username=bonjwa1337&show_icons=true&theme=dracula)
